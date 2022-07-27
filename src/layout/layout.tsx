@@ -24,7 +24,7 @@ const Layout = ({ children }: any) => {
             <li className='hover:underline decoration-4 underline-offset-8 cursor-pointer'>Men</li>
             <li className='hover:underline decoration-4 underline-offset-8 cursor-pointer'>Women</li>
             <li className='hover:underline decoration-4 underline-offset-8 cursor-pointer'>Kids</li>
-            <li className='hover:underline decoration-4 underline-offset-8 cursor-pointer'>Sale</li>
+            <li className='hover:underline decoration-4 underline-offset-8 cursor-pointer'>On Sale</li>
           </ul>
         </div>
         <div className="ml-auto">
